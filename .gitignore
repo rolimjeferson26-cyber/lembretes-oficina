@@ -1,0 +1,13 @@
+# Segredos: NUNCA vão para o GitHub
+.env
+
+# Dados reais, emails gerados e registo de envios
+dados/
+emails_teste/
+registo_envios.csv
+*.xlsx
+
+# Python
+.venv/
+venv/
+__pycache__/
